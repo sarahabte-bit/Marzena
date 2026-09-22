@@ -1,6 +1,6 @@
 # Vårt projekt
 
-Det här dokumentet är teamets gemensamma karta. Håll det kort och uppdatera det när er förståelse förändras.
+Det här dokumentet är teamets gemensamma karta. Håll det kort och uppdatera det när er förståelse förändras.Sara
 
 ## Team
 
